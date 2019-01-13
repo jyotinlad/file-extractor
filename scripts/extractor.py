@@ -112,7 +112,8 @@ if __name__ == "__main__":
         "Price": "PRICE",
         "Shares in Issue": "SHARES",
         "Weighting": "WEIGHT",
-        # "Industry,Supersector": "",
+        # "Industry": "",
+        # "Supersector": "",
         # "Sector": "",
         # "Subsector": "",
     }
