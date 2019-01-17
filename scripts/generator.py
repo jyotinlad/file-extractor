@@ -19,7 +19,7 @@ class Generator:
         self.df = dataframe
 
     def portfolio(self, file, columns=None):
-        if not isinstance(columns, list):
+        if columns and not isinstance(columns, list):
             raise TypeError("expecting list object for 'columns' variable")
 
         if columns:
