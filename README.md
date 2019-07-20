@@ -1,9 +1,6 @@
 # File Extractor
 
-Overview
-
----
-
+## Overview
 A process which extracts data from a CSV file using pandas, and creates the following files:
 * PORT.tsv (containing a portfolio of constituents)
 * TIME.tsv (containing time series data of identifiers)
